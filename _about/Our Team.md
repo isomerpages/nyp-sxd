@@ -37,6 +37,6 @@ Gabriel has worked with renowned design firms like Afternaut, LTW Designworks, R
 
 ![](/images/About/about_vilvum%202.jpg)
 
-With a high level of competency, Vilvum have extensive experience in service experience design, encompassing diverse fields such as retail, hospitality, education, food and beverage (F&B) sector, and banking sector. Through his work, he has honed his skills in researching brands, industries, and markets, and adeptly present, facilitate, and conduct workshops and co-creation sessions for partners. 
+With a high level of competency, **Vilvum** have extensive experience in service experience design, encompassing diverse fields such as retail, hospitality, education, food and beverage (F&B) sector, and banking sector. Through his work, he has honed his skills in researching brands, industries, and markets, and adeptly present, facilitate, and conduct workshops and co-creation sessions for partners. 
 
 Throughout the design process, he provides tangible and practical contributions, actively engaging in research, concept development, and service blueprinting, and overseeing project pilots. As a seasoned professional, he prioritize coordinating the implementation and testing of best practice business processes. In each endeavor, he aims to be a hands-on design expert, shaping concepts and ensuring their seamless integration across various devices and platforms.
