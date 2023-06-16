@@ -2,7 +2,7 @@
 layout: homepage
 title: Service Experience Design Collaborative Lab
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/Landing/landing_sxdcolab.jpg
 permalink: /
 notification: ""
 sections:
