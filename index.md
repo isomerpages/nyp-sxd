@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: SXD Training Programmes
           description: ""
-          url: nyp-sxd/homepage/about
+          url: /about/
         - title: SXD Research & Technologies
           description: ""
           url: https://gmail.com
