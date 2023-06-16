@@ -11,3 +11,5 @@ The SXD Co-Lab drives the advancement of Service Design through research, educat
 
 #### **Our Vision**
 The SXD Co-Lab aspires to be a renowned innovation hub, facilitating meaningful engagement between organisations and their customers and stakeholders. We achieve this by designing and developing innovative service design methodologies, tools, and frameworks that are both research-based and practical. Serving as a collaborative platform, the SXD Co-Lab brings together our institute, industry partners, design agencies, and government entities. Through this collective effort, we strive to create human-centered design experiences that drive positive impact. By fostering collaboration and leveraging the expertise of various stakeholders, we aim to establish the SXD Co-Lab as a leading center for innovation and a catalyst for transforming service experiences.
+
+![](/images/About/about_who%20we%20are.jpg)
