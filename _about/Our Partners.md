@@ -15,4 +15,3 @@ With a strong track record of applied projects and training, the SXD Co-Lab has 
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | Text     | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     | Text     |
-
