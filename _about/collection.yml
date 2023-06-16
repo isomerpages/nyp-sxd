@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About/.keep
-      - Our Partners.md
       - Our Learners.md
