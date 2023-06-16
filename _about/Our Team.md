@@ -13,3 +13,10 @@ Our team is a dynamic blend of diverse designers, each bringing a unique set of 
 
 **Raymond Tan** is a dedicated Service Designer with a passion for driving business transformation. He leads the Service Experience Design Co-Lab at Nanyang Polytechnic, School of Design & Media where he fosters collaborative environments to apply service design principles effectively. With a Master's Degree in Service Design from the University of Arts London and over 16 years of design experience, Raymond has successfully introduced Service Design to diverse organisations including public agencies, corporates and social organisations. His expertise in product and service implementations allows him to provide comprehensive solutions that address organisational and customer needs.
 
+---
+
+![](/images/About/about_gabriel%202.jpg)
+
+**Gabriel Tan** is an experienced designer with expertise in various design disciplines. Awarded the Class 1(ID 1) designation by the Singapore Interior Design Accreditation Council, he is also the recipient for the Keppel Gold Medal Award and the Singapore Institute of Technology Scholarship. 
+
+Gabriel has worked with renowned design firms like Afternaut, LTW Designworks, RSP India, and Ong & Ong. Specializing in the intersection between space, UX and service design, he has made significant contributions to prestigious projects like the Four Seasons Hotel in Okinawa, Frasers Singapore and Google Mumbai. Gabriel is a lecturer at Nanyang Polytechnic with the Diploma of Experiential Product and Interior Design and serves as the Course Manager for the Specialist Diploma in Service Experience Design & Innovation
