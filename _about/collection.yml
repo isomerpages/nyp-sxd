@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - About/Our Learners.md
       - About/Our Partners.md
       - About/Our Team.md
       - About/Who We Are.md
