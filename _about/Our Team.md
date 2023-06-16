@@ -32,3 +32,11 @@ Gabriel has worked with renowned design firms like Afternaut, LTW Designworks, R
 ![](/images/About/about_jayden%202.jpg)
 
 **Jayden Sim** is a designer who loves creating experiences that have a meaningful impact. He believes in the power of storytelling and human connections, where he seamlessly weaves in digital elements when needed. With his background as a Senior Experience Designer at Landor & Fitch, Jayden has worked on exciting projects for big names like Singapore Airlines, NUS, and Microsoft. His dedication earned him a scholarship for a Masters of Design in Interior Design at the Glasgow School of Art, where he also completed his BA (Hons) in Interior Design. As a lecturer, Jayden believes in crafting immersive and engaging experiences that leave a lasting impression on people, using his expertise in spatial design, storytelling, and innovative spirit.
+
+---
+
+![](/images/About/about_vilvum%202.jpg)
+
+With a high level of competency, Vilvum have extensive experience in service experience design, encompassing diverse fields such as retail, hospitality, education, food and beverage (F&B) sector, and banking sector. Through his work, he has honed his skills in researching brands, industries, and markets, and adeptly present, facilitate, and conduct workshops and co-creation sessions for partners. 
+
+Throughout the design process, he provides tangible and practical contributions, actively engaging in research, concept development, and service blueprinting, and overseeing project pilots. As a seasoned professional, he prioritize coordinating the implementation and testing of best practice business processes. In each endeavor, he aims to be a hands-on design expert, shaping concepts and ensuring their seamless integration across various devices and platforms.
