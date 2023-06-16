@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About/.keep
-      - Who We Are.md
       - Our Team.md
       - Our Partners.md
       - Our Learners.md
