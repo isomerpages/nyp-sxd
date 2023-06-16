@@ -26,3 +26,9 @@ Gabriel has worked with renowned design firms like Afternaut, LTW Designworks, R
 ![](/images/About/about_larry%202.jpg)
 
 **Larry Seow** initiates methods for driving critical foresight thinking, for heightening people’s ambiguity tolerance. He led and participated in workshops: Innovation for Productivity Programme in the Public Sector, Ministry of Manpower, Indonesia; Urban Social Research, Tokyo National University of Fine Arts & Music, Japan; Urban Social Renewal, Crisis Design Network (Tokyo/Chicago), Beppu City, Japan. The initiated interests were exhibited in the medium of photography, drawings, and installations. Selected show: Singapore, Delft Centre, Netherlands; Design Nation, UNSW, Australian High Commission; Design Life Bali, RMIT/GAYA Art Space, Indonesia; Alphabet Soup, Alliance Francaise; Photography, MICA Building; INDEX.s 2000, Sculpture Square; Singapore Slice, Earl Lu Gallery; Reconstruction of a City, St James Power Station.
+
+---
+
+![](/images/About/about_jayden%202.jpg)
+
+**Jayden Sim** is a designer who loves creating experiences that have a meaningful impact. He believes in the power of storytelling and human connections, where he seamlessly weaves in digital elements when needed. With his background as a Senior Experience Designer at Landor & Fitch, Jayden has worked on exciting projects for big names like Singapore Airlines, NUS, and Microsoft. His dedication earned him a scholarship for a Masters of Design in Interior Design at the Glasgow School of Art, where he also completed his BA (Hons) in Interior Design. As a lecturer, Jayden believes in crafting immersive and engaging experiences that leave a lasting impression on people, using his expertise in spatial design, storytelling, and innovative spirit.
