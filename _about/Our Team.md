@@ -19,4 +19,10 @@ Our team is a dynamic blend of diverse designers, each bringing a unique set of 
 
 **Gabriel Tan** is an experienced designer with expertise in various design disciplines. Awarded the Class 1(ID 1) designation by the Singapore Interior Design Accreditation Council, he is also the recipient for the Keppel Gold Medal Award and the Singapore Institute of Technology Scholarship. 
 
-Gabriel has worked with renowned design firms like Afternaut, LTW Designworks, RSP India, and Ong & Ong. Specializing in the intersection between space, UX and service design, he has made significant contributions to prestigious projects like the Four Seasons Hotel in Okinawa, Frasers Singapore and Google Mumbai. Gabriel is a lecturer at Nanyang Polytechnic with the Diploma of Experiential Product and Interior Design and serves as the Course Manager for the Specialist Diploma in Service Experience Design & Innovation
+Gabriel has worked with renowned design firms like Afternaut, LTW Designworks, RSP India, and Ong & Ong. Specializing in the intersection between space, UX and service design, he has made significant contributions to prestigious projects like the Four Seasons Hotel in Okinawa, Frasers Singapore and Google Mumbai. Gabriel is a lecturer at Nanyang Polytechnic with the Diploma of Experiential Product and Interior Design and serves as the Course Manager for the Specialist Diploma in Service Experience Design & Innovation.
+
+---
+
+![](/images/About/about_larry%202.jpg)
+
+**Larry Seow** initiates methods for driving critical foresight thinking, for heightening people’s ambiguity tolerance. He led and participated in workshops: Innovation for Productivity Programme in the Public Sector, Ministry of Manpower, Indonesia; Urban Social Research, Tokyo National University of Fine Arts & Music, Japan; Urban Social Renewal, Crisis Design Network (Tokyo/Chicago), Beppu City, Japan. The initiated interests were exhibited in the medium of photography, drawings, and installations. Selected show: Singapore, Delft Centre, Netherlands; Design Nation, UNSW, Australian High Commission; Design Life Bali, RMIT/GAYA Art Space, Indonesia; Alphabet Soup, Alliance Francaise; Photography, MICA Building; INDEX.s 2000, Sculpture Square; Singapore Slice, Earl Lu Gallery; Reconstruction of a City, St James Power Station.
