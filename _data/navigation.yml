@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About
-    url: /about/
   - title: Programmes
     collection: example-folder
   - title: Contact Us
     url: /contact-us/
+  - title: Menu Title
+    url: /permalink
+  - title: About
+    collection: about
