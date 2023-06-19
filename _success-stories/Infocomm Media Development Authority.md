@@ -8,8 +8,6 @@ description: To enhance the staff workplace journey in the phygital environment
 
 ![](/images/Stories/stories_imda.jpg)
 
-**IMDA**
-
 **Challenge:**
 To enhance the staff workplace journey in the phygital environment to provide a better workplace environment. 
 
