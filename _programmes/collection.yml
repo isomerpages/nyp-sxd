@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - Specialist Diploma in Service Experience Design & Innovation.md
       - Internship.md
