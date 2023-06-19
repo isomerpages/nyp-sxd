@@ -2,4 +2,5 @@ collections:
   stories:
     output: true
     order:
+      - NYP x ONG&ONG Masterclass.md
       - NYP x Royal Collage of Art, London Masterclass.md
