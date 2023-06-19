@@ -2,6 +2,6 @@ collections:
   stories:
     output: true
     order:
-      - Infocomm Media Development Authority (IMDA).md
+      - Infocomm Media Development Authority.md
       - NYP x ONG&ONG Masterclass.md
       - NYP x Royal Collage of Art, London Masterclass.md
