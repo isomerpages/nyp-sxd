@@ -2,8 +2,8 @@ logo: /images/Navigation/nyp sdm_logo.png
 links:
   - title: About
     collection: about
-  - title: Sxd Training Programmes
-    collection: sxd-training-programmes
+  - title: Training Programmes
+    collection: training-programmes
   - title: Research
     collection: research
   - title: Network
