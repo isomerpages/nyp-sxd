@@ -1,5 +1,5 @@
 collections:
-  sxd-training-programmes:
+  training-programmes:
     output: true
     order:
       - Overview.md
