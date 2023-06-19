@@ -7,7 +7,7 @@ description: This forward-thinking programme is designed to drive innovation
   create innovative products and services that deeply engage customers and
   internal stakeholders.
 ---
-#### **4-Day SXD Mini-series **
+#### **4-Day SXD Mini-series**
 
 ![](/images/Programmes/programmes_4%20day%20sxd%20mini%20series.jpg)
 
