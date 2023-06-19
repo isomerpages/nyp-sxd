@@ -22,9 +22,9 @@ sections:
           description: ""
           url: /connect-with-us/
   - infobar:
-      title: Infobar title
+      title: Service Experience Design Collaborative Lab
       subtitle: Subtitle
-      description: About a sentence worth of description here
+      description: sss
       button: Button text
       url: /faq/
 ---
