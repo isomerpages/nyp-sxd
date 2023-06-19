@@ -2,6 +2,7 @@ collections:
   success-stories:
     output: true
     order:
+      - Novotel Singapore on Stevens.md
       - IHH Health Group.md
       - Infocomm Media Development Authority.md
       - NYP x ONG&ONG Masterclass.md
