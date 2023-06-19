@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - SXD Masterclass.md
       - Specialist Diploma in Service Experience Design & Innovation.md
       - Internship.md
