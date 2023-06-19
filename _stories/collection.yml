@@ -1,4 +1,5 @@
 collections:
   stories:
     output: true
-    order: []
+    order:
+      - NYP x Royal Collage of Art, London Masterclass.md
