@@ -17,10 +17,10 @@ sections:
           url: /about/who-we-are/
         - title: SXD Research & Technologies
           description: ""
-          url: https://gmail.com
+          url: /about/research/
         - title: Connect with us
           description: ""
-          url: /privacy/
+          url: /connect-with-us/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
