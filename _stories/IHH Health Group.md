@@ -6,6 +6,8 @@ description: To introduce design thinking and service design at the hospitals to
 ---
 #### **IHH Health Group**
 
+![](/images/Stories/stories_ihh.jpg)
+
 **IHH Healthcare**
 
 **Challenge:** To introduce design thinking and service design at the hospitals to enhance the patience experience and innovation. 
