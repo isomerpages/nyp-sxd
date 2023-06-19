@@ -6,6 +6,8 @@ description: To enhance the staff workplace journey in the phygital environment
 ---
 #### **Infocomm Media Development Authority**
 
+![](/images/Stories/stories_imda.jpg)
+
 **IMDA**
 
 **Challenge:**
@@ -16,7 +18,8 @@ HR, Operations, Workplace, and Digital Transformation departments came together 
 
 **Outcomes:**
 By combining high-tech and high-touch elements, the solution ensures a comprehensive and engaging experience for new staff members. The use of technology enhances accessibility and flexibility, while new buddy programme foster a sense of belonging and support. This approach not only equips new employees with the necessary knowledge but also helps them quickly integrate into the organisational culture and work effectively within their respective teams.
+# 
 
 > *“Enjoy the hands on experience of prototyping and testing it out with our users. And we can apply what we have learned directly to our work*.”
-
+# 
 > *“We enjoyed learning how to create user journey map and the inteviewing process to understand it from my user's lens. That's was very insightful and useful*.”
