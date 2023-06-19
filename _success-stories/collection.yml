@@ -1,5 +1,5 @@
 collections:
-  stories:
+  success-stories:
     output: true
     order:
       - IHH Health Group.md
