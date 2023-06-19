@@ -8,8 +8,6 @@ description: To introduce design thinking and service design at the hospitals to
 
 ![](/images/Stories/stories_ihh.jpg)
 
-**IHH Healthcare**
-
 **Challenge:** To introduce design thinking and service design at the hospitals to enhance the patience experience and innovation. 
 
 **Process:** In a collaborative effort, 21 staff members from Gleneagles Hospital, Parkway Hospital, Mount Elizabeth Hospital, Parkway College, and the Radiology department have come together to design meaningful interventions from the patient's perspective. The programme allows staff to empathise with patients from various perspectives and facilitates the sharing of concepts across different hospitals within the organisation. By embracing Service Design and Human-Centered Design principles, the staff members are not only creating impactful interventions but also fostering a culture of continuous improvement and innovation with opportunity to identify new stakeholders, uncover new insights, and ultimately transform the way healthcare services are delivered, providing patients with an improved and more meaningful healthcare experience. 
