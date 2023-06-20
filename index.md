@@ -30,6 +30,7 @@ sections:
       button: Know More About Us
       url: /about/who-we-are/
       image: /images/Landing/landing_sxdcolab.jpg
+      alt: SXD Co-Lab
   - infopic:
       title: Corporate & SMEs
       subtitle: SXD Training Programme
