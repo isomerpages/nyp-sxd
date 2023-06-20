@@ -22,7 +22,7 @@ sections:
           url: /research/overview/
         - title: Connect with us
           description: ""
-          url: /nyp-sxd/contact-us/
+          url: /contact-us/
   - infopic:
       title: Collaborative Lab
       subtitle: Service Experience Design
