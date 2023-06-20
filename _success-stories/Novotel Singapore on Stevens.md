@@ -13,6 +13,6 @@ description: To overcome manpower shortage in the post pandemic era.
 
 **Outcomes:** In response to the challenges faced by the hotel industry in the wake of the pandemic, a group of 10 innovation leads together from various departments came together with NYP design students to redefine the check-in, dine-in, and housekeeping experiences.
 
-&gt; "It has provided me insights in aiming on improving the experience of consumers. We can work not efficiently but effectively on how we tackle problem solving and identifying solutions.”
+&gt;&gt; "It has provided me insights in aiming on improving the experience of consumers. We can work not efficiently but effectively on how we tackle problem solving and identifying solutions.”
 
-&gt; “This is also an opportunity to enhance the quality of the hotel services and a chance for the team to develop their individual capabilities in innovation.”
+&gt;&gt; “This is also an opportunity to enhance the quality of the hotel services and a chance for the team to develop their individual capabilities in innovation.”
