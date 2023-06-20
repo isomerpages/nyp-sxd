@@ -24,9 +24,9 @@ sections:
   - infopic:
       title: Collaborative Lab
       subtitle: Service Experience Design
-      description: It aims to to help and empower businesses to transform their
-        service delivery and innovation capabilities through the practice of
-        Service Design.
+      description: Aims to help and empower businesses to transform their service
+        delivery and innovation capabilities through the practice of Service
+        Design.
       button: Discover More
       url: /about/who-we-are/
 ---
