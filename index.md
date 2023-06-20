@@ -1,7 +1,9 @@
 ---
 layout: homepage
 title: Service Experience Design Collaborative Lab
-description: An Isomer site of the Singapore Government
+description: The SXD Co-Lab in partnership with OCBC Bank is set up with the aim
+  to help and empower businesses to transform their service delivery and
+  innovation capabilities through the practice of Service Design.
 image: /images/Landing/landing_sxdcolab.jpg
 permalink: /
 notification: ""
