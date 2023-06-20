@@ -59,4 +59,5 @@ sections:
       button: Network
       url: https://www.service-design-network.org/chapters/singapore
       alt: Service Design Network
+      image: /images/Landing/landing_sxdcolab 04.jpg
 ---
