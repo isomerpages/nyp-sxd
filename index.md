@@ -27,7 +27,7 @@ sections:
       description: Aims to help and empower businesses to transform their service
         delivery and innovation capabilities through the practice of Service
         Design.
-      button: Learn More
+      button: Know More About Us
       url: /about/who-we-are/
       image: /images/Landing/landing_sxdcolab.jpg
   - infopic:
