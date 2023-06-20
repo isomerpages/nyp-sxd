@@ -50,4 +50,13 @@ sections:
       url: /research/overview/
       alt: SXD Research
       image: /images/Landing/landing_sxdcolab 03.jpg
+  - infopic:
+      title: Singapore Chapter
+      subtitle: Service Design Network
+      description: As a part of this global network, we are committed to elevating the
+        practice of Service Design & making a difference in the local & regional
+        landscape.
+      button: Network
+      url: https://www.service-design-network.org/chapters/singapore
+      alt: Service Design Network
 ---
