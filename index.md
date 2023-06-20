@@ -38,4 +38,5 @@ sections:
         customers & stakeholders.
       button: Discover
       url: /programmes/overview/
+      image: /images/Landing/landing_sxdcolab 02.jpg
 ---
