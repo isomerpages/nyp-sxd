@@ -39,4 +39,12 @@ sections:
       button: Discover
       url: /programmes/overview/
       image: /images/Landing/landing_sxdcolab 02.jpg
+  - infopic:
+      title: Methodologies & Technology
+      subtitle: SXD  Research
+      description: By employing qualitative design research methods & harnessing the
+        power of eye-tracking technology, ...
+      button: View Videos
+      url: /research/overview/
+      alt: Image alt text
 ---
