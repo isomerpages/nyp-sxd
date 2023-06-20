@@ -21,10 +21,13 @@ sections:
         - title: Connect with us
           description: ""
           url: /connect-with-us/
-  - infobar:
-      title: Service Experience Design Collaborative Lab
-      subtitle: Subtitle
-      description: sss
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Collaborative Lab
+      subtitle: Service Experience Design
+      description: It aims to to help and empower businesses to transform their
+        service delivery and innovation capabilities through the practice of
+        Service Design.
+      button: Discover More
+      url: /about/overview/
+      alt: Image alt text
 ---
