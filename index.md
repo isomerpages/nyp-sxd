@@ -10,7 +10,7 @@ sections:
       title: Service Experience Design Collaborative Lab
       subtitle: by Nanyang Polytechnic, School of Design & Media in partnership with
         OCBC Bank
-      background: /images/Landing/landing banner 02.jpg
+      background: /images/Landing/landing banner 02-revised.jpg
       key_highlights:
         - title: SXD Training Programmes
           description: ""
