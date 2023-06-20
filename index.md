@@ -48,5 +48,5 @@ sections:
         power of eye-tracking technology, ...
       button: View Videos
       url: /research/overview/
-      alt: Image alt text
+      alt: SXD Research
 ---
