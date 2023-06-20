@@ -40,6 +40,7 @@ sections:
       button: Discover
       url: /programmes/overview/
       image: /images/Landing/landing_sxdcolab 02.jpg
+      alt: Training Programme
   - infopic:
       title: Methodologies & Technology
       subtitle: SXD  Research
