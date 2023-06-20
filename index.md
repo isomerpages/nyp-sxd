@@ -19,7 +19,7 @@ sections:
           url: /about/who-we-are/
         - title: SXD Research & Technologies
           description: ""
-          url: /about/research/
+          url: /research/overview/
         - title: Connect with us
           description: ""
           url: /connect-with-us/
