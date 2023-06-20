@@ -27,13 +27,15 @@ sections:
       description: Aims to help and empower businesses to transform their service
         delivery and innovation capabilities through the practice of Service
         Design.
-      button: Discover More
+      button: Learn More
       url: /about/who-we-are/
       image: /images/Landing/landing_sxdcolab.jpg
   - infopic:
       title: Corporate & SMEs
       subtitle: SXD Training Programme
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: Our goal is to enhance your internal capabilities & work processes
+        for innovation, by providing a holistic experience for both your
+        customers & stakeholders.
+      button: Discover
+      url: /programmes/overview/
 ---
