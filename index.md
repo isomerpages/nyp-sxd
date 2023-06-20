@@ -28,6 +28,5 @@ sections:
         service delivery and innovation capabilities through the practice of
         Service Design.
       button: Discover More
-      url: /about/overview/
-      alt: Image alt text
+      url: /about/who-we-are/
 ---
