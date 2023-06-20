@@ -49,4 +49,5 @@ sections:
       button: View Videos
       url: /research/overview/
       alt: SXD Research
+      image: /images/Landing/landing_sxdcolab 03.jpg
 ---
