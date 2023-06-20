@@ -29,4 +29,5 @@ sections:
         Design.
       button: Discover More
       url: /about/who-we-are/
+      image: /images/Landing/landing_sxdcolab.jpg
 ---
