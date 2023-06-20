@@ -38,7 +38,7 @@ sections:
         for innovation, by providing a holistic experience for both your
         customers & stakeholders.
       button: Discover
-      url: /programmes/overview/
+      url: /training-programmes/overview/
       image: /images/Landing/landing_sxdcolab 02.jpg
       alt: SXD Training Programme
   - infopic:
