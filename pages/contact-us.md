@@ -16,8 +16,13 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6550 0461
-      - email: sxdcolab@nyp.edu.sg
+      - phone: +65 6550 0771
+      - email: gina_weers@nyp.edu.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: Gina Tay Hui, Senior Manager
+  - content:
+      - phone: +65 6550 0972
+      - email: christopher_tan@nyp.edu.sg
+      - other: ""
+    title: Chris Tan, Deputy Manager
 ---
