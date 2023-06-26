@@ -18,8 +18,8 @@ Service Design Thinking and Doing form the foundation of our approach, guided by
 * Contextual Enquiry 
 * Observation Studies 
 * Service Blueprint 
-* Ideation & Conceptualisation 
+* Ideation &amp; Conceptualisation 
 * Prototyping 
 * User Testing and Evaluation 
 
-**Connect with us >**
+<a target="_blank" href="/contact-us/">Connect with us</a>
