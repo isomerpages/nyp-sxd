@@ -6,7 +6,7 @@ agency_name: SXD Co-Lab Team
 locations:
   - address:
       - 80 Ang Mo Kio Ave 8, Blk M
-      - School of Design & Media (SDM)
+      - School of Design & Media
       - Singapore 569830
     operating_hours:
       - days: Mon - Fri
