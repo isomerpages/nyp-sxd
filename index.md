@@ -37,7 +37,7 @@ sections:
       subtitle: SXD Training Programme
       description: We tailor our programmes to meet your specific needs. Ultimately
         providing an experiential and holistic experience for both your
-        customers and organisation.
+        customers & organisation.
       button: Discover
       url: /training-programmes/overview/
       image: /images/Landing/landing_sxdcolab 02.jpg
@@ -45,8 +45,8 @@ sections:
   - infopic:
       title: Methodologies & Technology
       subtitle: SXD  Research
-      description: We employ design research methods and harnessing the power of
-        technology to delve into the intricacies of human behavior and unlock
+      description: We employ design research methods & harnessing the power of
+        technology to delve into the intricacies of human behaviour & unlock
         profound insights.
       button: View Videos
       url: /research/overview/
