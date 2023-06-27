@@ -36,8 +36,8 @@ sections:
       title: Corporate & SMEs
       subtitle: SXD Training Programme
       description: We tailor our programmes to meet your specific needs. Ultimately
-        providing an experiential and holistic experience for both your
-        customers & organisation.
+        providing an experiential & holistic experience for both your customers
+        & organisation.
       button: Discover
       url: /training-programmes/overview/
       image: /images/Landing/landing_sxdcolab 02.jpg
