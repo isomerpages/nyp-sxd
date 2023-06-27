@@ -26,9 +26,8 @@ sections:
   - infopic:
       title: Collaborative Lab
       subtitle: Service Experience Design
-      description: Aims to help and empower businesses to transform their service
-        delivery and innovation capabilities through the practice of Service
-        Design.
+      description: We aim to empower businesses to transform their innovation
+        capabilities through the practice of Service Design.
       button: Know More About Us
       url: /about/who-we-are/
       image: /images/Landing/landing_sxdcolab.jpg
@@ -36,9 +35,9 @@ sections:
   - infopic:
       title: Corporate & SMEs
       subtitle: SXD Training Programme
-      description: Our goal is to enhance your internal capabilities & work processes
-        for innovation, by providing a holistic experience for both your
-        customers & stakeholders.
+      description: We tailor our programmes to meet your specific needs. Ultimately
+        providing an experiential and holistic experience for both your
+        customers and organisation.
       button: Discover
       url: /training-programmes/overview/
       image: /images/Landing/landing_sxdcolab 02.jpg
@@ -46,8 +45,9 @@ sections:
   - infopic:
       title: Methodologies & Technology
       subtitle: SXD  Research
-      description: By employing qualitative design research methods & harnessing the
-        power of eye-tracking technology, ...
+      description: We employ design research methods and harnessing the power of
+        technology to delve into the intricacies of human behavior and unlock
+        profound insights.
       button: View Videos
       url: /research/overview/
       alt: SXD Research
