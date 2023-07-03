@@ -25,4 +25,9 @@ contacts:
       - email: christopher_tan@nyp.edu.sg
       - other: ""
     title: Chris Tan, Deputy Manager
+  - content:
+      - phone: +65 6550 0461
+      - email: raymond_tan@nyp.edu.sg
+      - other: ""
+    title: Raymond Tan, Service Designer
 ---
