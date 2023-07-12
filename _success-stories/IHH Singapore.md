@@ -6,6 +6,7 @@ description: To introduce design thinking and service design at the hospitals to
 ---
 #### **IHH Singapore &amp; Nanyang Polytechnic ink three-year partnership to enhance patient experience through service design thinking**
 
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0tQK3Qpio9I" height="315" width="560"></iframe>
 
 IHH Healthcare Singapore and Nanyang Polytechnic (NYP) have entered a three-year partnership to enhance patient experience. Through Parkway College, a subsidiary of IHHSG, it aims to equip 80 IHHSG staff with service design thinking competencies to innovate and enhance services in healthcare settings.
