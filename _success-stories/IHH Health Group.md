@@ -4,18 +4,18 @@ permalink: /success-stories/ihh-health-group/
 description: To introduce design thinking and service design at the hospitals to
   enhance the patience experience and innovation.
 ---
-#### **IHH Health Group**
+#### **IHH Singapore &amp; Nanyang Polytechnic ink three-year partnership to enhance patient experience through service design thinking**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0tQK3Qpio9I" height="315" width="560"></iframe>
 
-![](/images/Stories/stories_ihh.jpg)
+IHH Healthcare Singapore and Nanyang Polytechnic (NYP) have entered a three-year partnership to enhance patient experience. Through Parkway College, a subsidiary of IHHSG, it aims to equip 80 IHHSG staff with service design thinking competencies to innovate and enhance services in healthcare settings.
 
-**Challenge:** To introduce design thinking and service design at the hospitals to enhance the patience experience and innovation. 
+The partnership follows a successful pilot in May 2022, which saw 21 IHHSG staff undergoing NYP’s Design Thinking &amp; Job Redesign Business Transformation Programme. Post-training, NYP’s School of Design &amp; Media further developed an idea into a full working prototype – a thematic and interactive toys vending machine at Parkway East Hospital’s A&amp;E Department. This unique vending machine, featuring an experiential spatial design, made the A&amp;E experience more pleasant for paediatric patients and their caregivers.
 
-**Process:** In a collaborative effort, 21 staff members from Gleneagles Hospital, Parkway Hospital, Mount Elizabeth Hospital, Parkway College, and the Radiology department have come together to design meaningful interventions from the patient's perspective. The programme allows staff to empathise with patients from various perspectives and facilitates the sharing of concepts across different hospitals within the organisation. By embracing Service Design and Human-Centered Design principles, the staff members are not only creating impactful interventions but also fostering a culture of continuous improvement and innovation with opportunity to identify new stakeholders, uncover new insights, and ultimately transform the way healthcare services are delivered, providing patients with an improved and more meaningful healthcare experience. 
+“Improving patient experience does not happen by chance, but by design. Equipping our healthcare and operations professionals with design thinking skills enable them to apply human-centered approaches to generate more innovative ideas and improve patient experience. Seeking medical help can be distressing for patients but we can make the experience better with service delivery that is well-thought out and aligned to what patients really want,” says Ms Hui Hwa Koh-Minjoot, Vice President and Head, Allied Health and Patient Experience, IHHSG.
 
-**Outcomes:** In a cross-departmental collaboration, our team is working together to design and implement new services aimed at enhancing the patient's journey such as an enhanced service ambassadors play a crucial role in providing personalized assistance and support to patients throughout their healthcare journey. Children interactive space to be fun and interactive, providing entertainment and distraction for children during their visits, thereby reducing anxiety and promoting a positive experience.
+From 2023 to 2026, the collaboration will see design thinking knowledge and practical skills being incorporated as core competencies for service professionals at IHHSG. The training will also enable service professionals to integrate design thinking alongside established quality improvement tools in hospital projects and solutions.
 
-“Experiencing this service design program and going through the solutioning process feels accomplishing.”
+As part of the MOU, NYP will further expand design thinking practices into the healthcare industry. The partnership will also enable NYP students to intern at IHHSG and gain practical experience by working alongside healthcare and operations professionals to apply design thinking practices.
 
-“I felt I had a very productive and enriching experience during this project designing for PEH. The fact that we were designing this experience and space for children in the hospital made it feel rewarding to me.”
+Mr Russell Chan, Principal &amp; CEO, Nanyang Polytechnic, said, “Through this partnership, we hope to develop and deepen design thinking capabilities of healthcare professionals at IHHSG and enhance the user experience of patients and their loved ones in a healthcare setting. We remain grateful for the support from industry partners like IHHSG in offering meaningful internship opportunities for our learners to apply their skills and knowledge in a real-world setting and deliver innovative solutions to solve everyday problems.”
