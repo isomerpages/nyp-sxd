@@ -6,6 +6,8 @@ description: To introduce design thinking and service design at the hospitals to
 ---
 #### **IHH Health Group**
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0tQK3Qpio9I" height="315" width="560"></iframe>
+
 ![](/images/Stories/stories_ihh.jpg)
 
 **Challenge:** To introduce design thinking and service design at the hospitals to enhance the patience experience and innovation. 
@@ -14,6 +16,6 @@ description: To introduce design thinking and service design at the hospitals to
 
 **Outcomes:** In a cross-departmental collaboration, our team is working together to design and implement new services aimed at enhancing the patient's journey such as an enhanced service ambassadors play a crucial role in providing personalized assistance and support to patients throughout their healthcare journey. Children interactive space to be fun and interactive, providing entertainment and distraction for children during their visits, thereby reducing anxiety and promoting a positive experience.
 
-> “Experiencing this service design program and going through the solutioning process feels accomplishing.”
+&gt; “Experiencing this service design program and going through the solutioning process feels accomplishing.”
 
-> “I felt I had a very productive and enriching experience during this project designing for PEH. The fact that we were designing this experience and space for children in the hospital made it feel rewarding to me.”
+&gt; “I felt I had a very productive and enriching experience during this project designing for PEH. The fact that we were designing this experience and space for children in the hospital made it feel rewarding to me.”
