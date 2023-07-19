@@ -20,3 +20,5 @@ From 2023 to 2026, the collaboration will see design thinking knowledge and prac
 As part of the MOU, NYP will further expand design thinking practices into the healthcare industry. The partnership will also enable NYP students to intern at IHHSG and gain practical experience by working alongside healthcare and operations professionals to apply design thinking practices.
 
 Mr Russell Chan, Principal &amp; CEO, Nanyang Polytechnic, said, “Through this partnership, we hope to develop and deepen design thinking capabilities of healthcare professionals at IHHSG and enhance the user experience of patients and their loved ones in a healthcare setting. We remain grateful for the support from industry partners like IHHSG in offering meaningful internship opportunities for our learners to apply their skills and knowledge in a real-world setting and deliver innovative solutions to solve everyday problems.”
+
+![](/images/Stories/ihh_logo%2002.jpg)
