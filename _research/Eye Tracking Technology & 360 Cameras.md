@@ -11,6 +11,6 @@ description: The integration of Eye Tracking glasses into our research
 
 ![](/images/Research/research_eye%20tracking.jpg)
 
-The integration of Eye Tracking glasses into our research methodology enables us to gather unbiased information about user attention. By leveraging this technology in conjunction with 360 video capture, we can obtain a comprehensive and holistic understanding of user behavior, allowing us to uncover deep insights. This powerful combination is applicable across various domains, including spatial environments, physical products, digital interfaces, and human interactions. It provides us with a unique perspective and invaluable data that enriches our understanding of how users engage with their surroundings. 
+By incorporating Eye Tracking glasses into our research methodology, we can gather unbiased information about user attention. This technology, when combined with 360 video capture, offers a comprehensive and all-encompassing view of user behavior, enabling us to uncover deep insights. . This powerful combination is applicable across various domains, including spatial environments, physical products, digital interfaces, and human interactions. It provides us with a unique perspective and invaluable data that enriches our understanding of how users engage with their surroundings.
 
 <a target="_blank" href="/contact-us/">Connect with us</a>
