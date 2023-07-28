@@ -17,6 +17,6 @@ IMDA’s HR, Operations, Workplace, and Digital Transformation departments came 
 **Outcomes:**
 By combining high-tech and high-touch elements, the solution ensures a comprehensive and engaging experience for new staff. The use of technology enhances accessibility and flexibility, while the newly created buddy programme fosters a sense of belonging and support among colleagues. This approach not only integrates new employees into the organisational culture quickly, it also equips them with the necessary knowledge to operate effectively within their respective teams.
 
-<blockquote>I enjoyed the hands-on experience of prototyping and testing it out with our staff. Beyond that, we can apply what we have learned directly to our work.”</blockquote>
+<blockquote><b>I enjoyed the hands-on experience of prototyping and testing it out with our staff. Beyond that, we can apply what we have learned directly to our work.”</b></blockquote>
 
-<blockquote>“It was a very insightful journey as we learned how to create helpful tools such as user journey maps and develop the user interview process. Through this, we could better understand the underlying challenges and uncover new solutions.”</blockquote>
+<blockquote><b>“It was a very insightful journey as we learned how to create helpful tools such as user journey maps and develop the user interview process. Through this, we could better understand the underlying challenges and uncover new solutions.”</b></blockquote>
