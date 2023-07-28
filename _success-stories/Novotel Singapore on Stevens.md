@@ -15,6 +15,6 @@ description: To overcome manpower shortage in the post pandemic era.
 
 
 
-#### <blockquote><b>"It has provided me insights in aiming on improving the experience of consumers. We can work not efficiently but effectively on how we tackle problem solving and identifying solutions.”</b></blockquote> 
+<blockquote><b>"It has provided me insights in aiming on improving the experience of consumers. We can work not efficiently but effectively on how we tackle problem solving and identifying solutions.”</b></blockquote> 
 
-#### <blockquote><b>“This is also an opportunity to enhance the quality of the hotel services and a chance for the team to develop their individual capabilities in innovation.”</b></blockquote>
+<blockquote><b>“This is also an opportunity to enhance the quality of the hotel services and a chance for the team to develop their individual capabilities in innovation.”</b></blockquote>
