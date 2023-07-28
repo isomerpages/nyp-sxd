@@ -18,4 +18,4 @@ Held in partnership with the esteemed Royal College of Art in London known for i
 
 #### <b>“Numerous insights were developed throughout this practise that helped me to understand the value chain and business model which are absolutely crucial to begin with.”</b>
 
-#### <b>Showcases Service Design as a tool to capture value and to strategically transform an organisation's position within a competitive market landscape.”</b>
+#### <b>"Showcases Service Design as a tool to capture value and to strategically transform an organisation's position within a competitive market landscape.”</b>
