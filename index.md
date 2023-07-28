@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       title: Service Experience Design Collaborative Lab
-      subtitle: by Nanyang Polytechnic, School of Design & Media in partnership with
+      subtitle: by Nanyang Polytechnic's School of Design & Media, in partnership with
         OCBC Bank
       background: /images/Landing/landing banner 02-revised.jpg
       key_highlights:
