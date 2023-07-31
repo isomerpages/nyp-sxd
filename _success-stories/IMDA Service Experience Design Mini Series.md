@@ -4,7 +4,7 @@ permalink: /success-stories/imda-service-experience-design-mini-series/
 description: To enhance staff’s journey in the phygital environment and provide
   a better workplace experience.
 ---
-#### **IMDA Service Experience Design Mini-Series**
+#### **IMDA Service Experience Design Mini Series**
 
 ![](/images/Stories/stories_imda.jpg)
 
