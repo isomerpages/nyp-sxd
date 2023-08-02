@@ -29,5 +29,5 @@ contacts:
       - phone: +65 6550 0461
       - email: raymond_tan@nyp.edu.sg
       - other: ""
-    title: Raymond Tan, SXD Manager
+    title: Raymond Tan, SXD Co-Lab Lead
 ---
