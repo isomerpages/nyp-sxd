@@ -7,7 +7,7 @@ description: Service Design Thinking and Doing form the foundation of our
   stakeholders, with the ultimate goal of uncovering valuable insights for
   innovation.
 ---
-#### **Design Methodolgies**
+#### **Design Methodologies**
 
 ![](/images/Research/research_methodolgies.jpg)
 
