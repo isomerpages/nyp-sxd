@@ -6,7 +6,7 @@ description: The course is designed to equip your staff with the basics of DT
   Through the course, participants will learn to apply empathy, gaining a deep
   understanding of user needs.
 ---
-#### **2-Day Harnessing Design Thinking for Innovation** 
+#### **2 Day Harnessing Design Thinking for Innovation** 
 
 ![](/images/Programmes/programmes_2%20day%20harnessing.jpg)
 
