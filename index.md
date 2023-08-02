@@ -34,7 +34,7 @@ sections:
       alt: SXD Co-Lab
   - infopic:
       title: Corporate & SMEs
-      subtitle: SXD Training Programme
+      subtitle: SXD Training Programmes
       description: We tailor our programmes to meet your specific needs. Ultimately
         providing an experiential & holistic experience for both your customers
         & organisation.
