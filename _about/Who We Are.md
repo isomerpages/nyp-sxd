@@ -14,6 +14,6 @@ The SXD Co-Lab aspires to be a renowned innovation hub, facilitating meaningful 
 
 As a collaborative platform, the SXD Co-Lab brings together our institute, industry partners, design agencies, and government entities. Through this collective effort, we strive to create human-centered design experiences that drive positive impact. 
 
-By fostering collaboration and leveraging the expertise of various stakeholders, we aim to establish the SXD Co-Lab as a leading center for innovation and a catalyst for transforming service experiences.
+By fostering collaboration and leveraging the expertise of various stakeholders, we aim to establish the SXD Co-Lab as a leading centre for innovation and a catalyst for transforming service experiences.
 
 ![](/images/About/about_who%20we%20are.jpg)
