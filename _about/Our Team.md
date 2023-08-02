@@ -9,7 +9,7 @@ Our team comprises a dynamic mix of designers with diverse backgrounds, each pos
 
 ---
 
-![](/images/About/about_raymond%204.jpg)
+![](/images/About/about_raymond%203.jpg)
 
 **Raymond Tan** is a dedicated Service Designer with a passion for driving business transformation. He leads the Service Experience Design Co-Lab at Nanyang Polytechnic's School of Design & Media, where he fosters collaborative environments to apply service design principles effectively. With a Master's Degree in Service Design from the University of Arts, London, and over 16 years of design experience, Raymond has successfully introduced Service Design to diverse organisations including public agencies, corporates and social organisations. His expertise in product and service implementations allows him to provide comprehensive solutions that address organisational and customer needs.
 
