@@ -5,7 +5,7 @@ description: Our team is a dynamic blend of diverse designers, each bringing a
   unique set of expertise to the table.
 ---
 #### **Our Team**
-Our team comprises a dynamic mix of designers with diverse backgrounds, each possessing a unique set of skills and expertise. Witth professionals specializing in Service Design, Product Design, Spatial Design, Interactive Design, and Business Design, we are able to offer a comprehensive range of skills, abilities, and perspectives to effectively address the complex challenges faced by our partners.
+Our team comprises a dynamic mix of designers with diverse backgrounds, each possessing a unique set of skills and expertise. With professionals specializing in Service Design, Product Design, Spatial Design, Interactive Design, and Business Design, we are able to offer a comprehensive range of skills, abilities, and perspectives to effectively address the complex challenges faced by our partners.
 
 ---
 
