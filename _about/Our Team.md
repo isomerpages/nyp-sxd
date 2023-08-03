@@ -5,7 +5,7 @@ description: Our team is a dynamic blend of diverse designers, each bringing a
   unique set of expertise to the table.
 ---
 #### **Our Team**
-Our team comprises a dynamic mix of designers with diverse backgrounds, each possessing a unique set of skills and expertise. With professionals specializing in Service Design, Product Design, Spatial Design, Interactive Design, and Business Design, we are able to offer a comprehensive range of skills, abilities, and perspectives to effectively address the complex challenges faced by our partners.
+Our team comprises a dynamic mix of designers with diverse backgrounds, each possessing a unique set of skills and expertise. With professionals specialising in Service Design, Product Design, Spatial Design, Interactive Design, and Business Design, we are able to offer a comprehensive range of skills, abilities, and perspectives to effectively address the complex challenges faced by our partners.
 
 ---
 
@@ -17,7 +17,7 @@ Our team comprises a dynamic mix of designers with diverse backgrounds, each pos
 
 ![](/images/About/about_gabriel%203.jpg)
 
-**Gabriel Tan** is an experienced designer with expertise spanning various design disciplines. Awarded the Class 1(ID 1) designation by the Singapore Interior Design Accreditation Council, he is also the recipient of the Keppel Gold Medal Award and the Singapore Institute of Technology Scholarship. Gabriel has worked with renowned design firms like Afternaut, LTW Designworks, RSP India, and Ong & Ong. Specializing in the intersection between space, UX and service design, he has made significant contributions to prestigious projects like the Four Seasons Hotel in Okinawa, Frasers Singapore and Google Mumbai. 
+**Gabriel Tan** is an experienced designer with expertise spanning various design disciplines. Awarded the Class 1(ID 1) designation by the Singapore Interior Design Accreditation Council, he is also the recipient of the Keppel Gold Medal Award and the Singapore Institute of Technology Scholarship. Gabriel has worked with renowned design firms like Afternaut, LTW Designworks, RSP India, and Ong & Ong. Specialising in the intersection between space, UX and service design, he has made significant contributions to prestigious projects like the Four Seasons Hotel in Okinawa, Frasers Singapore and Google Mumbai. 
 
 Gabriel is a lecturer at Nanyang Polytechnic's School of Design & Media, covering the Diploma of Experiential Product and Interior Design. He is also the Course Manager for the Specialist Diploma in Service Experience Design & Innovation.
 
@@ -37,6 +37,6 @@ Gabriel is a lecturer at Nanyang Polytechnic's School of Design & Media, coverin
 
 ![](/images/About/about_vilvum%202.jpg)
 
-**Vilvum** possesses an extensive experience in service experience design, covering diverse industries including retail, hospitality, education, food and beverage, and banking . With a keen eye for detail, he has honed his research skills in brands, industries, and markets. He's also experienced to facilitate and conduct workshops and co-creation sessions with partners.
+**Vilvum** possesses an extensive experience in service experience design, covering diverse industries including retail, hospitality, education, food and beverage, and banking. With a keen eye for detail, he has honed his research skills in brands, industries, and markets. He's also experienced to facilitate and conduct workshops and co-creation sessions with partners.
 
 Throughout the design process, he provides tangible and practical contributions, actively engaging in research, concept development, and service blueprinting. As a seasoned professional, he places great emphasis on coordinating the implementation and testing of best practice business processes. In every project he participates in, he assumes the role of a hands-on design expert, shaping concepts and ensuring their seamless integration across various devices and platforms.
