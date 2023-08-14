@@ -1,40 +1,47 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Service Experience Design Collaborative Lab
+url: https://sxdcolab.nyp.edu.sg
+favicon: /images/Navigation/nyp_logo.png
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#ff5100"
+  secondary-color: "#001c43"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#e5e1e6"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#ff5100"
     - title: media-color-three
-      color: '#00838f'
+      color: "#001c43"
     - title: media-color-four
-      color: '#00838f'
+      color: "#001c43"
     - title: media-color-five
-      color: '#00838f'
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+      color: "#001c43"
+description: The SXD Co-Lab in partnership with OCBC Bank is set up with the aim
+  to help and empower businesses to transform their service delivery and
+  innovation capabilities through the practice of Service Design.
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -46,3 +53,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dl4k6rk0t3gnz.amplifyapp.com
 prod: https://master.dl4k6rk0t3gnz.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/Landing/landing_sxdcolab.jpg
+is_government: false
+google_analytics: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
