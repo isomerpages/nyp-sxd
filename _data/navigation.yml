@@ -1,0 +1,12 @@
+logo: /images/Navigation/nyp sdm_logo 02.png
+links:
+  - title: About
+    collection: about
+  - title: Programmes
+    collection: training-programmes
+  - title: Research
+    collection: research
+  - title: Stories
+    collection: success-stories
+  - title: Connect with Us
+    url: /contact-us/

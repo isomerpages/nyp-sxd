@@ -1,0 +1,7 @@
+collections:
+  research:
+    output: true
+    order:
+      - Overview.md
+      - Eye Tracking Technology & 360 Cameras.md
+      - Design Methodologies.md

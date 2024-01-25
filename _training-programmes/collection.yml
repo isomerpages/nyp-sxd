@@ -1,0 +1,11 @@
+collections:
+  training-programmes:
+    output: true
+    order:
+      - Overview.md
+      - 2 Day Harnessing Design Thinking for Innovation.md
+      - 4 Day Service Experience Design Mini Series.md
+      - Project Collaborations & Consultations.md
+      - SXD Masterclass.md
+      - Specialist Diploma in Service Experience Design & Innovation.md
+      - Internship.md
